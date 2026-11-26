@@ -1,0 +1,32 @@
+<style>
+/* Existing style.css content is preserved; append small-site-footer styles below. */
+
+.small-update {
+    text-align: center;
+    padding: 12px 8px;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.small-update p {
+    margin: 4px 0;
+}
+
+.small-update a {
+    display: inline-block;
+    margin-top: 6px;
+    padding: 6px 12px;
+    border: 2px solid skyblue;
+    border-radius: 4px;
+    background: blueviolet;
+    color: #fff;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.small-update a:hover {
+    background: lime;
+    color: #000;
+}
+</style>
